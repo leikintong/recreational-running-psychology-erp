@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
+gensim
+sentence-transformers
+scikit-posthocs
+statsmodels
+openpyxl
+nltk
